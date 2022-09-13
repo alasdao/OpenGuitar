@@ -1,0 +1,8 @@
+{
+    "org": "commons-stack",
+    "repo": "iteration0",
+    "tokenAddress": "0xc4fbE68522ba81a28879763C3eE33e08b13c499E",
+    "labels": ["iteration-0"],
+    "votingMethod": "STANDARD",
+    "chainId": 42
+}
