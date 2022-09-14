@@ -4,6 +4,10 @@
 
 Collect, refine, Vote -> iteration-0
 
+How to collect:
+
+Using github issues, create a submission form, ...
+
 Voting tools:
 
 - https://quadraticvote.radicalxchange.org/ easy, needs no token, links easily shared; QV can be irritating
