@@ -1,0 +1,11 @@
+# OpenGuitar
+
+## Co-designing an art challenge
+
+Collect, refine, Vote -> iteration-0
+
+Voting tools:
+
+- https://quadraticvote.radicalxchange.org/ easy, needs no token, links easily shared; QV can be irritating
+- https://tokenlog.xyz/alasdao/OpenGuitar needs creation of a token (can be on testnet); voting items are github issues 
+- sli.do - Just a slido poll, just counting thumbs-up === one-person-one-vote ; not sure if voters need slido account
